@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 Sign the individual contributor license agreement
 on the dotted line :-)
+
+### Copyright
+2021. Git training.
